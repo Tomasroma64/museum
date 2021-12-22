@@ -1,0 +1,30 @@
+[
+    {
+        "fileName":"./dude.jpg",
+        "text": {
+            "name":"Your MOM",
+            "artist":"Lucas Parfitt"
+        }
+    },
+    {
+        "fileName":"./dude2.jpg",
+        "text": {
+            "name":"Dude",
+            "artist":"Lucas Parfitt"
+        }
+    },
+    {
+        "fileName":"./commie.jpg",
+        "text": {
+            "name":"iPhone commie",
+            "artist":"Lucas Parfitt"
+        }
+    }, 
+    {
+        "fileName":"./4.jfif",
+        "text": {
+            "name":"Fuck This",
+            "artist":"Lucas Parfitt"
+        }
+    }
+]
